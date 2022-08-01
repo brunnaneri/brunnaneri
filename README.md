@@ -28,7 +28,7 @@ O objetivo desse projeto foi de desenvolver um modelo que fosse capaz de rankear
 
 O produto final foi uma planilha no Google Sheets que contém um botão, emplementado pelo Google Scripts, que quando pressionado retorna uma lista rankeada por uma coluna de propensity_score, que corresponde a probabilidade de compra para cada cliente da base repassada.
 
-O modelo desenvolvido trará cerca de 2.75x mais retorno financeiro, cerca de $131.332.610,64, a empresa quando comparado ao baseline.
+O modelo desenvolvido trará cerca de 2.75x mais retorno financeiro, cerca de $131.332.610,64, à empresa quando comparado ao baseline.
 
 ## Projeto de Insights - EDA
 
