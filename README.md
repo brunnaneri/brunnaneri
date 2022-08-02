@@ -19,7 +19,7 @@ em produção do modelo desenvolvido, sempre buscando trazer, além das métrica
 Rossmann é uma rede de farmária que está presente em sete países na Europa, composta por mais de 3000 drogarias. As vendas das lojas são influenciadas por diversos fatores, como promoções, competição entre lojas próximas, feriados, sazonalidade e localidade. 
 
 Nesse projeto foi desenvolvido um modelo de previsão de vendas diárias, com antecedência de seis semanas, para 1115 lojas da Rede Farmacêutica Rossmann. 
-Com o modelo emplementado, foram calculados diferentes cenários que preveem o faturamento destas lojas para as seis semanas seguintes. Estes cenários foram calculados considerando o erro MAE do modelo, de forma que, no pior cenário o faturamento total das lojas será de $285,802,068.49 e no melhor de $287,339,116.71.
+Com o modelo implementado, foram calculados diferentes cenários que preveem o faturamento destas lojas para as seis semanas seguintes. Estes cenários foram calculados considerando o erro MAE do modelo, de forma que, no pior cenário o faturamento total das lojas será de $285,802,068.49 e no melhor de $287,339,116.71.
 
 Como produto final, foi disponibilizado um BOT no Telegram que fornece as previsões das vendas para cada loja a partir do Store ID digitado.
 
