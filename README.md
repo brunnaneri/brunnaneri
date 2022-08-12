@@ -37,6 +37,8 @@ O CEO da House Rocket Company está com dificuldades em definir quais imóveis a
 
 O produto entregue ao CEO foi um link com um dashboard composto por mapas, tabelas com análises estatísticas e gráficos com filtros interativos, e duas tabelas de recomendações de compra e venda dos imóveis com o lucro previsto para cada revenda.
 
+Seguindo as recomendações feitas no projeto, a previsão de lucro pela empresa é de cerca de de $757M.
+
 
 #
 ### Fique à vontade para entrar em contato.
