@@ -23,7 +23,7 @@ Com o modelo implementado, foram calculados diferentes cenários que preveem o f
 
 Como produto final, foi disponibilizado um BOT no Telegram que fornece as previsões das vendas para cada loja a partir do Store ID digitado.
 
-### [Sistema de Rankeamento de Clientes - Cross-Selling de Seguros](https://github.com/brunnaneri/health_insurance_cross_sell)
+### [Sistema de Ranking de Clientes - Cross-Selling de Seguros](https://github.com/brunnaneri/health_insurance_cross_sell)
 O objetivo desse projeto foi de desenvolver um modelo que fosse capaz de rankear a base de clientes de uma seguradora de saúde por propensão a adquirir um segundo seguro, no caso, o de automóvel. 
 
 O produto final foi uma planilha no Google Sheets que contém um botão, emplementado pelo Google Scripts, que quando pressionado retorna uma lista rankeada por uma coluna de propensity_score, que corresponde a probabilidade de compra para cada cliente da base repassada.
